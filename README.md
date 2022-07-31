@@ -1,7 +1,7 @@
-<img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" alt="headimg">
+<img src="https://qph.cf2.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13">
 <h1 align="center">Hi 👋, I'm Vikas Chavan</h1>
-<h3 align="center">A passionate frontend developer from indiaper from India</h3>
-<img width="400" align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+<h3 align="center" >A passionate frontend developer from india </h3>
+<img width="400" margin-top="20" height="400" align="right" src="https://i.pinimg.com/originals/ec/c3/88/ecc3882e29654a291f8824494979145b.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikaschavan1723&label=Profile%20views&color=0e75b6&style=flat" alt="vikaschavan1723" /> </p>
 
